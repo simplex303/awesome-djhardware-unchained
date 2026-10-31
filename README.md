@@ -141,6 +141,7 @@ gear without DJ Link (a SQUID or AS-1 over MIDI, for example).
 - [ORVIK](https://github.com/Zesminseok/ORVIK) - DJ hardware to Resolume sync over TCNet.
 - [beat-link-trigger](https://github.com/Deep-Symmetry/beat-link-trigger) - Triggers events and automates shows from what the players are doing.
 - [open-beat-control](https://github.com/Deep-Symmetry/open-beat-control) - A subset of beat-link over Open Sound Control.
+- [tapbox](https://github.com/dinther/tapbox) - Turns Pro DJ Link, Audio signal or finger tap into Ableton Link tempo master. Using ESP32 hardware (WT32-ETH01)
 
 ### Monitoring
 
